@@ -1,9 +1,16 @@
-# <p align="center">👋 Hi, I'm Chandan Shahi</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Chandan%20Shahi&fontSize=52&fontAlignY=38&desc=Senior%20DevOps%20%26%20Enterprise%20Cloud%20Architect&descFontSize=20&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0089D6&center=true&vCenter=true&width=750&lines=Senior+DevOps+%26+Enterprise+Cloud+Architect;Azure+Landing+Zone+(CAF)+%26+GenAI+Infrastructure;Hub-and-Spoke+Zero-Trust+Networking+Specialist;Production-Grade+Terraform+%26+DevSecOps+Pipelines;100%2B+Enterprise+Workload+Cloud+Migration+Lead" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0089D6&center=true&vCenter=true&width=650&lines=Senior+DevOps+Engineer;Enterprise+Azure+Landing+Zone+(CAF);GenAI+Infrastructure+%26+LLMOps;Zero-Trust+Hub-and-Spoke+Networking;Production-Grade+Terraform+Modules" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandandevops07-gif&style=flat-square&color=0089D6&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Location-India-FF9933?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=flat-square&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-Senior_%2F_Lead_Level-blue?style=flat-square&logo=azure-devops&logoColor=white" />
 </p>
 
 <p align="center">
@@ -17,18 +24,33 @@
 
 ---
 
-## 👨‍💻 About Me & Architectural Vision
-
-I am a **Senior DevOps & Enterprise Cloud Architect** specializing in large-scale cloud transformations, zero-trust enterprise landing zones, and GenAI infrastructure enablement.
-
-- 🔭 **Current Focus:** Architecting Enterprise-Scale **Azure Landing Zones (CAF)** with private **Azure OpenAI (LLMOps)** integration.
-- 💼 **Scale & Impact:** Successfully led the end-to-end migration of **100+ enterprise workloads** with zero unexpected downtime, achieving **~28% FinOps cost reduction**.
-- 🛠️ **Core Strengths:** Reusable Terraform Modules, Centralized Hub-and-Spoke Virtual Networks, DevSecOps Automation (Checkov/Tfsec/Infracost), and Enterprise Delivery Governance.
-- 🎯 **Leadership:** Technical evaluation of RFPs/SOWs, vendor governance, cross-functional mentoring, and KT acceleration.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="220">
+      <img src="assets/avatar.jpg" width="180" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(0,137,214,0.4);" alt="Chandan Shahi" />
+      <br/><br/>
+      <b>Chandan Shahi</b>
+      <br/>
+      <sub>📍 India | Senior Cloud Architect</sub>
+    </td>
+    <td>
+      <h3>⚡ Executive Profile & Architectural Vision</h3>
+      <p>
+        I specialize in large-scale enterprise cloud transformations, <b>Microsoft Cloud Adoption Framework (CAF)</b>, 
+        and high-security <b>GenAI & LLMOps infrastructure</b> on Azure.
+      </p>
+      <ul>
+        <li>🚀 <b>Migration Scale:</b> Architected & executed end-to-end migration of <b>100+ enterprise workloads</b> with zero unexpected downtime.</li>
+        <li>💰 <b>FinOps Leadership:</b> Reduced annualized cloud compute spend by <b>28%</b> through rightsizing, RI/Savings Plans & automated waste elimination.</li>
+        <li>🛡️ <b>DevSecOps & Zero-Trust:</b> Shift-left compliance automation using Checkov, TFLint, Infracost, and CIS Azure Foundations guardrails.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌟 Featured Enterprise Architecture Repositories
+## 🌟 Featured Production Repositories
 
 <table>
   <tr>
@@ -43,7 +65,7 @@ I am a **Senior DevOps & Enterprise Cloud Architect** specializing in large-scal
       </ul>
       <p align="center">
         <a href="https://github.com/chandandevops07-gif/azure-enterprise-landing-zone">
-          <img src="https://img.shields.io/badge/View_Repository-0089D6?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Explore_Code-0089D6?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -58,7 +80,7 @@ I am a **Senior DevOps & Enterprise Cloud Architect** specializing in large-scal
       </ul>
       <p align="center">
         <a href="https://github.com/chandandevops07-gif/Terraform-modules">
-          <img src="https://img.shields.io/badge/View_Repository-7B42BC?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Explore_Code-7B42BC?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -239,7 +261,7 @@ flowchart TB
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 Real-Time GitHub Activity & Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandandevops07-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
