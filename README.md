@@ -36,6 +36,33 @@
 
 ---
 
+## 🧠 The Senior Mindset: Business & Architecture Alignment
+
+```text
+                           [ The Senior Mindset ]
+                                     |
+                  "What is the Business & Functional Domain?"
+                                     |
+           +-------------------------+-------------------------+
+           |                                                   |
+[ Infrastructure & Security Architecture ]           [ Delivery Governance & Leadership ]
+- Cloud Landing Zones & CAF Governance               - Pre-Sales, RFPs & Commercial Estimates
+- DevSecOps & Shift-Left Pipeline Guardrails         - SOW Negotiation & Deliverable Milestones
+- Multi-Region Disaster Recovery & FinOps            - RACI Matrix Enforcement & SLA Tracking
+- Zero-Trust Network Microsegmentation               - Knowledge Transfers (KT) & Team Mentorship
+```
+
+```text
++--------------------------------------------------------------------------------------------------+
+|                                    10 Scalability & Quality Pillars                               |
+|                                                                                                  |
+|  1. Scalable      2. Robust        3. Secure        4. Reliable       5. Portable                |
+|  6. Governed      7. High Avail    8. Cost-Optim    9. Backed Up      10. Compliant & Monitored  |
++--------------------------------------------------------------------------------------------------+
+```
+
+---
+
 ## 🌟 Featured Production Repositories
 
 <table>
@@ -276,19 +303,6 @@ flowchart TB
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Real-Time GitHub Activity & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandandevops07-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandandevops07-gif&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandandevops07-gif&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
