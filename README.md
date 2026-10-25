@@ -56,17 +56,17 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📦 <a href="https://github.com/chandandevops07-gif/Terraform-modules">Terraform-modules</a></h3>
-      <p align="center"><b>Reusable Enterprise Infrastructure as Code Modules</b></p>
+      <h3 align="center">🛡️ <a href="https://github.com/chandandevops07-gif/devsecops-terraform-pipeline">devsecops-terraform-pipeline</a></h3>
+      <p align="center"><b>Shift-Left DevSecOps CI/CD Pipeline (TFLint, tfsec, Trivy & Gitleaks)</b></p>
       <ul>
-        <li><b>VNet & Subnet Modules:</b> Standardized enterprise CIDR provisioning.</li>
-        <li><b>Compute & Storage:</b> Hardened VMs, VMSS, and Storage Accounts with CMK.</li>
-        <li><b>Governance:</b> Custom Azure Policy and RBAC assignment modules.</li>
-        <li><b>Advanced State:</b> Nested maps, dynamic blocks, and variable validation patterns.</li>
+        <li><b>Automated Linting:</b> TFLint with Azure ruleset plugin & format enforcement.</li>
+        <li><b>Static IaC Analysis:</b> tfsec evaluating CIS Azure Benchmarks & CWEs.</li>
+        <li><b>Vulnerability Scanner:</b> Trivy configuration scans & secret detection.</li>
+        <li><b>SARIF Export:</b> Automated security report upload to GitHub Security tab.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/chandandevops07-gif/Terraform-modules">
-          <img src="https://img.shields.io/badge/Explore_Code-7B42BC?style=flat-square&logo=github&logoColor=white" />
+        <a href="https://github.com/chandandevops07-gif/devsecops-terraform-pipeline">
+          <img src="https://img.shields.io/badge/Explore_Pipeline-red?style=flat-square&logo=githubactions&logoColor=white" />
         </a>
       </p>
     </td>
@@ -88,16 +88,17 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🗺️ <a href="https://github.com/chandandevops07-gif/Terraform-nested-map">Terraform-nested-map</a></h3>
-      <p align="center"><b>Advanced Terraform Data Structures & Complex Nested Maps</b></p>
+      <h3 align="center">📦 <a href="https://github.com/chandandevops07-gif/Terraform-modules">Terraform-modules</a></h3>
+      <p align="center"><b>Reusable Enterprise Infrastructure as Code Modules</b></p>
       <ul>
-        <li><b>Dynamic Resource Provisioning:</b> Iterating over multi-tier subnet architectures.</li>
-        <li><b>Map Transformations:</b> for_each, flatten, and lookup functions.</li>
-        <li><b>Production Cleanliness:</b> DRY principles for multi-environment IaC.</li>
+        <li><b>VNet & Subnet Modules:</b> Standardized enterprise CIDR provisioning.</li>
+        <li><b>Compute & Storage:</b> Hardened VMs, VMSS, and Storage Accounts with CMK.</li>
+        <li><b>Governance:</b> Custom Azure Policy and RBAC assignment modules.</li>
+        <li><b>Advanced State:</b> Nested maps, dynamic blocks, and variable validation patterns.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/chandandevops07-gif/Terraform-nested-map">
-          <img src="https://img.shields.io/badge/Explore_Code-4A154B?style=flat-square&logo=terraform&logoColor=white" />
+        <a href="https://github.com/chandandevops07-gif/Terraform-modules">
+          <img src="https://img.shields.io/badge/Explore_Code-7B42BC?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
