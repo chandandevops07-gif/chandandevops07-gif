@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Chandan%20Shahi&fontSize=52&fontAlignY=38&desc=Senior%20DevOps%20%7C%20Enterprise%20Cloud%20Architect&descFontSize=20&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Chandan%20Shahi&fontSize=52&fontAlignY=38&desc=Cloud%20and%20Automation%20Specialist%20%7C%20CI%2FCD%20%7C%20Terraform%20%7C%20Linux&descFontSize=19&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0089D6&center=true&vCenter=true&width=650&lines=Senior+DevOps+Engineer;Enterprise+Azure+Landing+Zone+(CAF);GenAI+Infrastructure+and+LLMOps;Zero-Trust+Hub-and-Spoke+Networking;Production-Grade+Terraform+Modules" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0089D6&center=true&vCenter=true&width=750&lines=Cloud+and+Automation+Specialist;Enterprise+Azure+Landing+Zone+(CAF);AI+and+GitHub+Copilot+for+DevOps;Zero-Trust+Hub-and-Spoke+Networking;Production-Grade+Terraform+Modules" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/DevSecOps-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/FinOps-Certified-success?style=for-the-badge&logo=google-analytics" />
@@ -24,14 +25,14 @@
 
 ---
 
-## ⚡ Executive Summary & Architectural Vision
+## ⚡ Executive Summary & Professional Profile
 
-> **Senior DevOps & Enterprise Cloud Architect** specializing in large-scale enterprise cloud transformations, **Microsoft Cloud Adoption Framework (CAF)**, and zero-trust **GenAI & LLMOps infrastructure** on Azure.
+> **Cloud & Automation Specialist | CI/CD | Terraform | Infrastructure as Code (IaC) | Linux | Bridging Dev & Ops for Scalable, Secure Systems | Git & GitHub**
 
-- 🚀 **Migration Scale:** Architected & executed end-to-end migration of **100+ enterprise workloads** across Dev, UAT, and Production with zero unexpected downtime.
+- 🚀 **Cloud Migration & Architecture:** Architected & executed end-to-end migration of **100+ enterprise workloads** across Dev, UAT, and Production with zero unexpected downtime.
+- 🤖 **AI & DevSecOps Automation:** Leveraging **GitHub Copilot** and Azure OpenAI for automated IaC generation, security scanning, and pipeline diagnostics.
 - 💰 **FinOps Leadership:** Reduced annualized cloud compute spend by **28%** through rightsizing, RI/Savings Plans, and automated waste elimination.
-- 🛡️ **DevSecOps & Zero-Trust:** Shift-left compliance automation using Checkov, TFLint, Infracost, and CIS Azure Foundations guardrails.
-- 🤝 **Delivery Governance:** Enterprise RFP/SOW technical evaluations, RACI accountability, and vendor SLA management.
+- 🛡️ **Zero-Trust Guardrails:** Shift-left compliance automation using Checkov, TFLint, Infracost, and CIS Azure Foundations.
 
 ---
 
@@ -66,6 +67,37 @@
       <p align="center">
         <a href="https://github.com/chandandevops07-gif/Terraform-modules">
           <img src="https://img.shields.io/badge/Explore_Code-7B42BC?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 <a href="https://github.com/chandandevops07-gif/github-copilot-devops-toolkit">github-copilot-devops-toolkit</a></h3>
+      <p align="center"><b>AI & GitHub Copilot Automation for DevOps & Cloud Engineers</b></p>
+      <ul>
+        <li><b>Custom Instructions:</b> Enterprise Copilot system prompts for Terraform & K8s.</li>
+        <li><b>IaC Generation:</b> Prompts for zero-trust VNets, Subnets, and App Gateways.</li>
+        <li><b>K8s Hardening:</b> Prompts for non-root containers, health probes, and HPA v2.</li>
+        <li><b>Triage & SRE:</b> Log analysis prompts for CrashLoopBackOff and networking errors.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/chandandevops07-gif/github-copilot-devops-toolkit">
+          <img src="https://img.shields.io/badge/Explore_AI_Toolkit-00A67E?style=flat-square&logo=githubcopilot&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗺️ <a href="https://github.com/chandandevops07-gif/Terraform-nested-map">Terraform-nested-map</a></h3>
+      <p align="center"><b>Advanced Terraform Data Structures & Complex Nested Maps</b></p>
+      <ul>
+        <li><b>Dynamic Resource Provisioning:</b> Iterating over multi-tier subnet architectures.</li>
+        <li><b>Map Transformations:</b> for_each, flatten, and lookup functions.</li>
+        <li><b>Production Cleanliness:</b> DRY principles for multi-environment IaC.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/chandandevops07-gif/Terraform-nested-map">
+          <img src="https://img.shields.io/badge/Explore_Code-4A154B?style=flat-square&logo=terraform&logoColor=white" />
         </a>
       </p>
     </td>
