@@ -27,7 +27,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="220">
-      <img src="assets/avatar.jpg" width="180" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(0,137,214,0.4);" alt="Chandan Shahi" />
+      <img src="https://raw.githubusercontent.com/chandandevops07-gif/chandandevops07-gif/main/assets/avatar.jpg" width="180" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(0,137,214,0.4);" alt="Chandan Shahi" />
       <br/><br/>
       <b>Chandan Shahi</b>
       <br/>
